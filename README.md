@@ -9,7 +9,7 @@
 
 <section>
 
-## Technologies: ⬇️
+## Technologies: 👨‍💻
 
 <div>
 <h3>Languages:</h3>
