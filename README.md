@@ -55,10 +55,10 @@
 
 <div align="center">
 <h3>Contact-me:</h3>
-<a href="http://christopherqa.tech/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-A20D02?style=for-the-badge&logo=p&logoColor=white"</a>
-<a href="mailto:chriscsantos.qa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-A20D02?style=for-the-badge&logo=gmail&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/chriscsantosqa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-A20D02?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="https://contate.me/christopherqa" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-A20D02?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="http://christopherqa.tech/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-A20D02?style=for-the-badge&logo=p&logoColor=white"></a>
+<a href="mailto:chriscsantos.qa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-A20D02?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/chriscsantosqa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-A20D02?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://contate.me/christopherqa" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-A20D02?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
 #
