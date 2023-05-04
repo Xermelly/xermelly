@@ -40,7 +40,7 @@
   <div>
   <h3>Others:</h3>
     <img src="https://home.apache.org/~fschumacher/jmeter3.svg" height="30" width="90" alt="jmeter logo"  />
-    <img src="https://locust.io/static/img/logo.png" height="30" width="120" alt="locust logo"  />
+    <img src="https://locust.io/static/img/logo.png" height="20" width="120" alt="locust logo"  />
     <img src="https://www.svgrepo.com/show/353838/graylog-icon.svg" height="40" width="52" alt="graylog logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Idea-Dark.svg" height="40" width="52" alt="Intelijj IDEA logo"  />
