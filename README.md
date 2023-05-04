@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d80f01E&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Christopher+C.+Santos+;I'm+30+years+old;I'm+from+Brasil,+Araçatuba-SP;I+study+Software+Testing;Be+Welcome!)](https://git.io/typing-svg)
 
