@@ -68,4 +68,4 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{xermelly}/count.svg" /></p> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D80F01&height=120&section=footer"/>
